@@ -1,1 +1,1 @@
-# OpenCV-for-age-and-gender-prediction
+This is my project on OpenCV which is an open source computer vision and machine learning sofware library and by using this library I have made an small webcam which will help in predicting the age and gender of an person.
